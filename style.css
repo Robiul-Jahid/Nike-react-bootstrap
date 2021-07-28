@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,400&family=Style+Script&display=swap");
+* {
+  font-family: "Style Script", cursive;
+  font-family: "Roboto", sans-serif;
+}
+.navbar-item {
+  color: black;
+  font-weight: 500;
+}
+.navbar-item a {
+  text-decoration: none;
+}
+/* .nike {
+  color: #fa804c;
+  font-size: 80px;
+}
+/* .infinity { */
+/* font-size: 70px;
+} */
+.buy-btn {
+  background-image: linear-gradient(#3d4ff3, #3543bc);
+  padding: 18px 34px;
+}
+
+.menu {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+.price {
+  color: #fa804c;
+}
